@@ -1,0 +1,54 @@
+[{
+    "title":"Зимние ботинки",
+    "price":99,
+    "description":"Тепло и мягко",
+    "imgLink":"/images/Winter_boots.jpeg"
+},{
+    "title":"Пляжные тапки",
+    "price":43,
+    "description":"Море зовёт!",
+    "imgLink":"/images/Beach_slippers.jpeg",
+    "isNew":true
+},{
+    "title":"Праздничные туфли",
+    "price":85,
+    "description":"Теперь и в мятном цвете",
+    "imgLink":"/images/Party_Shoes.jpeg"
+},{
+    "title":"Кроссовки",
+    "price":105,
+    "description":"В голубом цвете",
+    "imgLink":"/images/blue sneakers.jpg"
+},{
+    "title":"Повседневные туфли",
+    "price":115,
+    "description":"Строгость и мягкость",
+    "imgLink":"/images/boat shoes.jpg"
+},{
+    "title":"Кеды",
+    "price":78,
+    "description":"В горошек",
+    "imgLink":"/images/pink polka dot sneakers.jpg",
+    "isNew":true
+},{
+    "title":"Кроссовки",
+    "price":55,
+    "description":"Нежный цвет",
+    "imgLink":"/images/pink sneakers 1.jpg"
+},{
+    "title":"Кроссовки",
+    "price":45,
+    "description":"В розовом цвете",
+    "imgLink":"/images/pink sneakers 2.jpg"
+},{
+    "title":"Резиновые сапоги",
+    "price":65,
+    "description":"Разбавят серую погоду",
+    "imgLink":"/images/rubber boots.jpg",
+    "isNew":true
+},{
+    "title":"Замшевые баллетки",
+    "price":75,
+    "description":"Утончённый стиль",
+    "imgLink":"/images/Suede ballerinas.jpg"
+}]
